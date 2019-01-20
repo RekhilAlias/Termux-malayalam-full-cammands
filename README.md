@@ -3,7 +3,9 @@ Termux all useful cammands malayalam created by rekhil elias paulose
 
 how to use this
 
-step 1 : copy and paste it termux
+step 1 : clone link and paste it termux
+
+enter
 
 step 2 : open termux home directory 
 
@@ -15,7 +17,7 @@ step 3 : cd Termux-malayalam-full-cammands
 
 ls
 
-step 4 :cp 'Termux cammands.pdf' /sdcard/
+step 4 : cp 'Termux cammands.pdf' /sdcard/
 
 it will copy to internal storage (make sure storage permission is enable)
 
